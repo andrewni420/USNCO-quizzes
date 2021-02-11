@@ -7,3 +7,4 @@ CropPDF.java - Uses the .txt file of locations to cut up a PDF into question and
 AddTransparency.java - Converts the white background of answers into transparent backgrounds. This is necessary so that the website can display 
 green/red backgrounds for right/wrong answers 
 
+AnswerScraper.java - All-in-one scraper for written solutions
