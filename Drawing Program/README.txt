@@ -1,5 +1,7 @@
 COSC Lab 10
 
+To start, run Project.main()
+
 For some reason this program makes my computer really hot sometimes. It might be really inefficient but I didn't really focus on fixing that because I had a lot of ideas to implement. 
 Ellipses and Splines are probably the culprit because they're defined as huge arrays of (x,y) coordinates
 
